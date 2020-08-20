@@ -3,7 +3,7 @@
 Google Meet Focus Mode is just a piece of code that can be used to modify Google Meet browser window to allow for more focussed sessions.
 
   - Useful for online lectures
-  - All thats required is just a click
+  - All that is required is just a click
   - Only software required is the browser itself
 
 ### Features
