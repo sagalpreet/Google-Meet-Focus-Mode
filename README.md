@@ -17,7 +17,7 @@ Google Meet Focus Mode is just a piece of code that can be used to modify Google
 - Enter the google meet you are to attend
 - Open up the console window.
   - For Chrome and Edge(Chromium), Ctrl + Shift + J does the same.
-- Paste in the code and press enter.
+- Paste in the code from gmeet.js and press enter.
 - Now you are ready to go !
 - You can toggle between the focus mode and normal window just by a single click in the browser viewport area.
 
