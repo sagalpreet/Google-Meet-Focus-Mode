@@ -6,6 +6,11 @@ Google Meet Focus Mode is just a piece of code that can be used to modify Google
   - All thats required is just a click
   - Only software required is the browser itself
 
+### Features
+
+- Once inside the focus mode, you no longer recieve notifications for any messages you recieve on chat window.
+- The top right bar that displays number of participants and stuff also disappears.
+- No longer do you get the option for switching on the mic and camera in focus mode even when you move your cursor accross the screen.
 
 ### How to use
 
