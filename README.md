@@ -27,7 +27,7 @@ Want to contribute? Great!
 
 The current code base is very simple, easy to start with and contribute. The entire script is written in JavaScript.
 
-- A significant contribution to start with could be to comment out the present code as you go through to improve the code readability since the script is hardly 30 lines of code.
+- A significant contribution to start with could be to comment out the present code as you go through it to improve the code readability since the script is hardly 30 lines of code.
 - Another good contribution could be to develop browser extension.
 - The current version works fine with Chrome and Chromium based MS Edge, you may check with other browsers and make the code fit for them as well.
 - Open up an issue regarding anything you feel is not working as it should have or if you want a new feature to be implemented.
